@@ -3,7 +3,7 @@ layout: post
 title: The Curious Case of Mikel Arteta
 ---
 <p align="center">
-  <img width="720" height="500" src="/images/arteta_hmm.jpg">
+  <img width="720" height="500" src="/zy_blog/images/arteta_hmm.jpg">
 </p>
 
 When Arsenal hosted Liverpool on the 3rd of April 2021 at the Emirates, it would be Mikel Arteta’s 50th game in charge. The jury is still out on Arteta’s suitability for the role, with opinions on whether he is the right man for Arsenal generally split across the fanbase. 
