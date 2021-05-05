@@ -24,7 +24,7 @@ There are a few channels you can reach out to me on:
 <div class="row">
         <div class="column">
           <a href="https://www.linkedin.com/in/zhiyuanchua/">
-            <img alt="Linkedin" src="../public/linkedin_icon-icons.com_65929.png" width="100" height="100">
+            <img alt="Linkedin" src="{{ site.baseurl }}/public/linkedin_icon-icons.com_65929.png" width="100" height="100">
           </a>
         </div>
         <div class="column">
