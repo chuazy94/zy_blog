@@ -10,7 +10,6 @@ This blog was birthed in the Coronavirus pandemic with a mixture of boredom and 
 ## About myself - Zhi Yuan Chua
 
 <p align="center">
-  ![ScreenShot](/images/profile_pic.jpg)
   <img width="225" height="400" src="../../images/profile_pic.jpg">
 </p>
 
